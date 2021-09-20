@@ -29,5 +29,9 @@ interface Clue {
   answer: number;
   // A link players can visit to read more about your answer.
   source: string;
+  // Optional: The minimum value (inclusive) a user can enter.
+  min_value?: number;
+  // Optional: The maximum value (inclusive) a user can enter.
+  max_value?: number;
 }
 ```

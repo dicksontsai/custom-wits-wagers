@@ -1,0 +1,43 @@
+{
+  "clues": [
+    {
+      "question": "The Simpsons is now over 20 years old and still going. How many episodes have there been as of the end of Season 32 (1989-2021)?",
+      "answer": 706,
+      "source": "https://en.wikipedia.org/wiki/The_Simpsons"
+    },
+    {
+      "question": "The 'pole of inaccessibility' refers to the furthest point from a coastline. How far away from the cost is North America's pole of inaccessibility, found in South Dakota?",
+      "answer": 1030,
+      "source": "https://en.wikipedia.org/wiki/Pole_of_inaccessibility#North_America"
+    },
+    {
+      "question": "As of his latest album Donda (2021), how many singles did Kanye West release as a lead or featured artist?",
+      "answer": 137,
+      "source": "https://en.wikipedia.org/wiki/Kanye_West_singles_discography"
+    },
+    {
+      "question": "In February 2021, what percentage of US individuals who own at least one smartphone own an Apple iPhone?",
+      "answer": 46.9,
+      "min_value": 0,
+      "max_value": 100,
+      "source": "https://www.statista.com/statistics/236550/percentage-of-us-population-that-own-a-iphone-smartphone/"
+    },
+    {
+      "question": "The term 'ticker-tape parade' came from New Yorkers' celebration of the Statue of Liberty's dedication, which occurred in which year?",
+      "answer": 1886,
+      "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+    },
+    {
+      "question": "As of September 13, 2021, the city of San Francisco has how many intersections with a traffic signal?",
+      "answer": 1462,
+      "source": "https://data.sfgov.org/Transportation/Traffic-Signals/ybh5-27n2"
+    },
+    {
+      "question": "In 2020, what percentage of US women used tampons?",
+      "answer": 20.2,
+      "min_value": 0,
+      "max_value": 100,
+      "source": "https://www.statista.com/statistics/278085/us-households-usage-of-tampons/"
+    }
+  ]
+}
